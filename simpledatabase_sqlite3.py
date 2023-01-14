@@ -1,10 +1,3 @@
-# STEPS:
-# 1. Connect to database
-# 2. Create cursor object
-# 3. Write an SQL query
-# 4. Commit changes
-# 5. Close database connection
-
 import sqlite3
 
 
@@ -59,5 +52,3 @@ update(11,6,"water glass")
 print(view())
 #insert("Coffee Cup",10,5)
 
-# NOTICE that if you have multiple, say 'coffee cups', and you delete them. BOTH will be deleted
- 
