@@ -1,4 +1,4 @@
-### My hosted [Flask website template](jgroshak.pythonanywhere.com)
+### My hosted Flask website template: jgroshak.pythonanywhere.com
 ---------------------------------------------------------------------
 
 
