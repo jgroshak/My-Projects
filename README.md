@@ -3,4 +3,4 @@
 
 
 # My Projects
-From data analysis to data bases to app dev
+From data analysis to databases to app dev
