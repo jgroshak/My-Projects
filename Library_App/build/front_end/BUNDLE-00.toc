@@ -1,3 +1,0 @@
-([('front_end',
-   '/Users/rondo/PYTHON_MEGA_COURSE/Library_App/dist/front_end',
-   'EXECUTABLE')],)
