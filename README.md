@@ -2,13 +2,13 @@
 Welcome to my Github project portfolio! Here you can find a collection of some of the projects I've worked on, ranging from personal projects to collaborations with others. Each project has its own dedicated folder within this repository, containing relevant code, documentation, and resources.
 
 ## Table of Contents
-OpenCV Motion Detector: A brief description of project 1.
-Databases: A brief description of project 2.
-Movies & Statistics: A brief description of project 4.
-Tkinker Library App: A brief description of project 5.
-Kivy Mobile App: A brief description of project 6.
-Web Scraping: A brief description of project 7.
-Website Using Flask (Demo): A brief description of project 8.
+1. OpenCV Motion Detector: A brief description of project 1.
+2. Databases: A brief description of project 2.
+3. Movies & Statistics: A brief description of project 4.
+4. Tkinker Library App: A brief description of project 5.
+5. Kivy Mobile App: A brief description of project 6.
+6. Web Scraping: A brief description of project 7.
+7. Website Using Flask (Demo): A brief description of project 8.
 ...
 ## About Me
 A little bit about me: I'm a software developer with a passion for creating intuitive and efficient software solutions. My areas of interest include machine learning, data science, and web development.
