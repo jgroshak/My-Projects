@@ -2,7 +2,7 @@
 Welcome to my Github project portfolio! Here you can find a collection of some of the projects I've worked on, ranging from personal projects to collaborations with others. Each project has its own dedicated folder within this repository, containing relevant code, documentation, and resources.
 
 ## Table of Contents
-1. OpenCV Motion Detector: A brief description of project 1.
+1. OpenCV Motion Detector: This application takes video input and converts its pixels from color to greyscale. The image is then passed through a blurring filter in order to remove any noise, in order to create a contour around each object in the image. Any objects that enter the videoframe will be detected. The time at which they enter the frame, as well as their duration are recored in a CSV file.
 2. Databases: A brief description of project 2.
 3. Movies & Statistics: A brief description of project 4.
 4. Tkinker Library App: A brief description of project 5.
