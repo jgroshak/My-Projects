@@ -8,7 +8,7 @@ Welcome to my Github project portfolio! Here you can find a collection of some o
 
 3. Movies & Statistics: Comparing different data cleaning methods. As well as some interesting statistics and insights about some of our favorite movies.
 
-4. Tkinker Library App: A simple widget to keep track of your favorite books and/or personal library in a personal database. With only one click save, update, and delete any entries by Title, Author, Publication Date, ISBN in the database.
+4. Tkinker Library App: A simple widget to keep track of your favorite books and/or personal library in a personal database. With only one click save, update, and delete any entries by Title, Author, Publication Date, ISBN in the database. Also included in the folder is an identical app, but written in a OOP format.
 
 5. Kivy Mobile App: Users can sign up and the app stores their username and password in a database. Tell the app how you're feeling and get an insirational quote to fit your mood.
 
